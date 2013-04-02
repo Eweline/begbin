@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Douglas -- Desenvolvedor -- <twitter>
+    Eweline -- Desenvolvedora --
+    Luana -- Desenvolvedora --
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr

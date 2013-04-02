@@ -1,0 +1,13 @@
+INSERT INTO `categoria`(`cat_categoria`) VALUES ('Agenda');
+INSERT INTO `categoria`(`cat_categoria`) VALUES ('Caderno');
+INSERT INTO `categoria`(`cat_categoria`) VALUES ('Camiseta');
+INSERT INTO `categoria`(`cat_categoria`) VALUES ('Caneca');
+INSERT INTO `categoria`(`cat_categoria`) VALUES ('Capa-Iphone');
+INSERT INTO `categoria`(`cat_categoria`) VALUES ('Chaveiro');
+INSERT INTO `categoria`(`cat_categoria`) VALUES ('Porta-CD');
+INSERT INTO `categoria`(`cat_categoria`) VALUES ('Toalha');
+
+INSERT INTO `usuario`(`Acesso_id_acesso`, `Endereco_id_Endereco`, `us_nome`, `us_senha`, `us_telefone`, `us_email`) VALUES ( 1, 1, 'administrador', 'adminsite', null, 'admin')
+
+
+INSERT INTO `endereco`(`pais`, `estado`, `cidade`, `bairro`, `rua`, `CEP`, `complemento`) VALUES ( null, null, null, null, null, null, null);
